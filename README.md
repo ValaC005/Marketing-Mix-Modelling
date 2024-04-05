@@ -1,5 +1,5 @@
 # Marketing-Mix-Modelling
-Marketing Mix Modelling Capstone Project (Team 4)
+Marketing Mix Modelling 
 
 The purpose of this report is to showcase the steps and research undertaken to build an MMM model that aids in allocating a certain budget across different marketing channels. Our business problem is to allocate one million dollars across six different marketing channels, namely: Facebook Newsfeed Impressions, YouTube Brand Impressions, Search Clicks, YouTube Performance Impressions, Newspaper Readership, and TV Gross Rating Points. The programming language that was used for validating, transforming, and analyzing the data set is R-Studio, while the open-source package Robyn was used to build and validate the MMM models. The dataset is in the form of a time-series data consisting of 1097 rows and 17 columns. 
 
